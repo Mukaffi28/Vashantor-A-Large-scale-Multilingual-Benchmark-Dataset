@@ -10,10 +10,7 @@ The Bangla linguistic variety is a fascinating mix of regional dialects that add
 - [Dataset Availability](#dataset-availability)
 - [Results](#results)
 - [Citation](#citation)
-- [License](#license)
-- [Contributing Guidelines](#contributing-guidelines)
 - [Contact Information](#contact-information)
-- [Acknowledgments](#acknowledgments)
 - [Future Work](#future-work)
 
 ## Experimental Setups
@@ -50,17 +47,9 @@ Include a section discussing the key results or outcomes of your research. If th
 ## Citation
 Include a citation or link to your research paper if it's published. If not yet published, mention the anticipated publication venue or status.
 
-## License
-Specify the license under which your code is released. Choose a license that aligns with your goals for sharing and collaboration.
-
-## Contributing Guidelines
-If you welcome contributions, provide guidelines for how others can contribute to your project.
-
 ## Contact Information
 Include your contact information or ways for others to reach out if they have questions or want to collaborate.
 
-## Acknowledgments
-Give credit to individuals, organizations, or funding sources that supported your research.
 
 ## Future Work
  
