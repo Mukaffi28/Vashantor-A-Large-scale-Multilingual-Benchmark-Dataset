@@ -5,8 +5,6 @@ The Bangla linguistic variety is a fascinating mix of regional dialects that add
 
 ## Table of Contents
 - [Experimental Setups](#experimental-setups)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Dataset Availability](#dataset-availability)
 - [Results](#results)
 - [Citation](#citation)
@@ -30,13 +28,7 @@ The Bangla linguistic variety is a fascinating mix of regional dialects that add
   - GPU: NVIDIA GeForce RTX 3050 (8 GB)
   - RAM: 16 GB
   - Storage: 512 GB NVMe SSD
-
-## Usage
-Provide examples of how to use your code. Include sample inputs and expected outputs.
-
-## Folder Structure
-Explain the organization of your codebase. Outline the purpose of each major folder or module.
-
+  - 
 ## Dataset Availability
 
 The "Vashantor" dataset, available in both CSV and JSON formats, is now publicly accessible. This dataset provides users with a valuable opportunity for flexible exploration and utilization in various research and analysis endeavors. You can explore and download the dataset at the following link: [Vashantor Dataset](https://data.mendeley.com/datasets/bj5jgk878b/2) Feel free to leverage this resource for your research, experiments, or any other analytical purposes. If you have any questions or need further assistance with the dataset, don't hesitate to reach out.
