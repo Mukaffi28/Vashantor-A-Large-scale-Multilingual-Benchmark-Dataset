@@ -42,7 +42,23 @@ Explain the organization of your codebase. Outline the purpose of each major fol
 The "Vashantor" dataset, available in both CSV and JSON formats, is now publicly accessible. This dataset provides users with a valuable opportunity for flexible exploration and utilization in various research and analysis endeavors. You can explore and download the dataset at the following link: [Vashantor Dataset](https://data.mendeley.com/datasets/bj5jgk878b/2) Feel free to leverage this resource for your research, experiments, or any other analytical purposes. If you have any questions or need further assistance with the dataset, don't hesitate to reach out.
 
 ## Results
-Include a section discussing the key results or outcomes of your research. If there are visualizations or charts, consider including them here.
+### CER, WER, BLEU, METEOR scores of all the Bangla regional dialect translation models
+
+| Region       | Model    | CER    | WER    | BLEU   | METEOR |
+|--------------|----------|--------|--------|--------|--------|
+| Chittagong   | mT5      | 0.2308 | 0.3959 | 36.75  | 0.6008 |
+| Chittagong   | BanglaT5 | 0.2040 | 0.3385 | 44.03  | 0.6589 |
+| Noakhali     | mT5      | 0.2035 | 0.3870 | 37.43  | 0.6073 |
+| Noakhali     | BanglaT5 | 0.1863 | 0.3214 | 47.38  | 0.6802 |
+| Sylhet       | mT5      | 0.1472 | 0.2695 | 51.32  | 0.7089 |
+| Sylhet       | BanglaT5 | 0.1715 | 0.2802 | 51.08  | 0.7073 |
+| Barishal     | mT5      | 0.1480 | 0.2644 | 48.56  | 0.7175 |
+| Barishal     | BanglaT5 | 0.1497 | 0.2459 | 53.50  | 0.7334 |
+| Mymensingh   | mT5      | 0.0796 | 0.1674 | 64.74  | 0.8201 |
+| Mymensingh   | BanglaT5 | 0.0823 | 0.1548 | 69.06  | 0.8312 |
+
+These results represent the evaluation metrics (CER, WER, BLEU, METEOR) for different regions using the mT5 and BanglaT5 models. Explore the performance of each model across various linguistic regions.
+
 
 ## Citation
 Include a citation or link to your research paper if it's published. If not yet published, mention the anticipated publication venue or status.
