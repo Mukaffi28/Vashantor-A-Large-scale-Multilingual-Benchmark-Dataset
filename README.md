@@ -59,6 +59,23 @@ The "Vashantor" dataset, available in both CSV and JSON formats, is now publicly
 
 These results represent the evaluation metrics (CER, WER, BLEU, METEOR) for different regions using the mT5 and BanglaT5 models. Explore the performance of each model across various linguistic regions.
 
+### Performance Overview of all region detection models
+
+| Model              | Accuracy | Log Loss | Region       | Precision | Recall  | F1-Score |
+|---------------------|----------|----------|--------------|-----------|---------|----------|
+| mBERT              | 84.36%   | 0.9549   | Chittagong   | 0.8779    | 0.8058  | 0.8913   |
+|                    |          |          | Noakhali     | 0.9286    | 0.9437  | 0.9361   |
+|                    |          |          | Sylhet       | 0.7304    | 0.9013  | 0.8072   |
+|                    |          |          | Barishal     | 0.8187    | 0.5893  | 0.6847   |
+|                    |          |          | Mymensingh   | 0.9412    | 0.968   | 0.9544   |
+| Bangla-bert-base   | 85.86%   | 0.8804   | Chittagong   | 0.884     | 0.8486  | 0.8651   |
+|                    |          |          | Noakhali     | 0.9625    | 0.9301  | 0.9461   |
+|                    |          |          | Sylhet       | 0.7388    | 0.9147  | 0.8173   |
+|                    |          |          | Barishal     | 0.8373    | 0.616   | 0.7091   |
+|                    |          |          | Mymensingh   | 0.9599    | 0.9653  | 0.9626   |
+
+These metrics showcase the performance of mBERT and Bangla-bert-base models in terms of accuracy, log loss, precision, recall, and F1-score across different regions.
+
 
 ## Citation
 Include a citation or link to your research paper if it's published. If not yet published, mention the anticipated publication venue or status.
