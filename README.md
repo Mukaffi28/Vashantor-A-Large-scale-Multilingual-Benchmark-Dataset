@@ -9,7 +9,6 @@ The Bangla linguistic variety is a fascinating mix of regional dialects that add
 - [Results](#results)
 - [Citation](#citation)
 - [Contact Information](#contact-information)
-- [Future Work](#future-work)
 
 ## Experimental Setups
 
@@ -28,7 +27,7 @@ The Bangla linguistic variety is a fascinating mix of regional dialects that add
   - GPU: NVIDIA GeForce RTX 3050 (8 GB)
   - RAM: 16 GB
   - Storage: 512 GB NVMe SSD
-  - 
+    
 ## Dataset Availability
 
 The "Vashantor" dataset, available in both CSV and JSON formats, is now publicly accessible. This dataset provides users with a valuable opportunity for flexible exploration and utilization in various research and analysis endeavors. You can explore and download the dataset at the following link: [Vashantor Dataset](https://data.mendeley.com/datasets/bj5jgk878b/2) Feel free to leverage this resource for your research, experiments, or any other analytical purposes. If you have any questions or need further assistance with the dataset, don't hesitate to reach out.
@@ -68,15 +67,38 @@ These results represent the evaluation metrics (CER, WER, BLEU, METEOR) for diff
 
 These metrics showcase the performance of mBERT and Bangla-bert-base models in terms of accuracy, log loss, precision, recall, and F1-score across different regions.
 
-
-## Citation
-Include a citation or link to your research paper if it's published. If not yet published, mention the anticipated publication venue or status.
-
 ## Contact Information
-Include your contact information or ways for others to reach out if they have questions or want to collaborate.
+
+For any questions, collaboration opportunities, or further inquiries, please feel free to reach out:
+
+- **Fatema Tuj Johora Faria**
+  - Email: [fatema.faria142@gmail.com](mailto:fatema.faria142@gmail.com)
+
+- **Mukaffi Bin Moin**
+  - Email: [mukaffi28@gmail.com](mailto:mukaffi28@gmail.com)
+
+- **Tashreef Muhammad**
+  - Email: [tashreef.muhammad@seu.edu.bd](mailto:tashreef.muhammad@seu.edu.bd)
+    
+## Citation
+
+If you find the "Vashantor" dataset or the associated research work helpful, please consider citing our paper:
+
+```bibtex
+@misc{faria2023vashantor,
+  title={Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language},
+  author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Ahmed Al Wase and Mehidi Ahmmed and Md. Rabius Sani and Tashreef Muhammad},
+  year={2023},
+  eprint={2311.11142},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL}
+}
 
 
-## Future Work
+
+
+
+
  
 
 
